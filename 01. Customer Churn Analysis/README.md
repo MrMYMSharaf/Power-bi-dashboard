@@ -36,16 +36,4 @@ The dashboard aids in identifying trends in customer churn, helping banks unders
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-For questions, reach out to your-email@example.com.
 
-markdown
-Copy code
-
-### Instructions for Uploading to GitHub
-1. Replace `yourusername` in the clone URL with your GitHub username.
-2. Replace `your-email@example.com` with your actual email address.
-3. Save this content as a `README.md` file in your repository.
-4. Upload the image file (`Customer Churn Analysis.png`) to the same repository.
-
-This `README.md` will display the image and provide a structured overview when viewed on GitHub. 
