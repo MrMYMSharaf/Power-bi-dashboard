@@ -1,0 +1,2 @@
+#Change The Column name in Uppler
+      = Table.TransformColumnNames( #"Renamed Columns",Text.Upper) //{Upper//Lower//Proper}
