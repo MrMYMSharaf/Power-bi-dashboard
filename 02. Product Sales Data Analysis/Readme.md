@@ -1,4 +1,3 @@
-```markdown
 # Power BI Sales Overview Dashboard
 
 This project showcases a **Sales Overview Dashboard** built using **Power BI**. The dashboard is designed to provide clear and actionable insights into sales performance across various regions and states in the United States. It allows users to analyze data from 2021 to 2024, comparing current year (CY) and previous year (PY) metrics.
