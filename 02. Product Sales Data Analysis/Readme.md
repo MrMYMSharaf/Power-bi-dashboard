@@ -1,5 +1,3 @@
-Here’s your `README.md` file in markdown format:
-
 ```markdown
 # Power BI Sales Overview Dashboard
 
